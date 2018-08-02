@@ -20,7 +20,7 @@
   - Hosted this application in **Heroku cloud platform services**
  
 **LIBRARIES AND PACKAGES:**
- - **React-Bootstrap:** this is used for setting up of application theme and makes the application responsive based on the device screen
+ - **react-bootstrap:** this is used for setting up of application theme and makes the application responsive based on the device screen
  - **firebase:** used for setting up of the google firebase services
  - **react-router:** used for core routing functionality for React Router, which enables multiple page view for the application
  - **react-redux:** used for storing the data at the root, so the data can be accessed at any component of that application
