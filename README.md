@@ -16,7 +16,7 @@
 **TECHNICAL FEATURES:**
   - The application interface renders depending upon the device screen(mobile or web)
   - Designed using **ReactJS Redux** library which uses **Flux concept** for storing and rendering of data globally.
-  - Used **google firebase services** for handling authentication, validation and storing data in the databse.
+  - Used **google firebase services** for handling authentication, validation and storing data in the database.
   - Hosted this application in **Heroku cloud platform services**
  
 **LIBRARIES AND PACKAGES:**
