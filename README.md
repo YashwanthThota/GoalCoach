@@ -24,6 +24,7 @@
  - **firebase:** used for setting up of the google firebase services
  - **react-router:** used for core routing functionality for React Router, which enables multiple page view for the application
  - **react-redux:** used for storing the data at the root, so the data can be accessed at any component of that application
- **DEMO LINK(HOSTED IN HEROKU):**
+ 
+**DEMO LINK(HOSTED IN HEROKU):**
  (https://whispering-bastion-10961.herokuapp.com/)
  
